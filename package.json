@@ -1,6 +1,6 @@
 {
   "name": "parse",
-  "version": "2.19.0",
+  "version": "2.19.0-sslreuse",
   "description": "The Parse JavaScript SDK",
   "homepage": "https://parseplatform.org/",
   "keywords": [
@@ -34,7 +34,7 @@
     "react-native-crypto-js": "1.0.0",
     "uuid": "3.4.0",
     "ws": "7.4.1",
-    "xmlhttprequest": "1.8.0"
+    "xmlhttprequest": "git://github.com/HawkenIndustries/node-XMLHttpRequest.git"
   },
   "devDependencies": {
     "@babel/core": "7.10.2",
