@@ -34,7 +34,7 @@
     "react-native-crypto-js": "1.0.0",
     "uuid": "3.4.0",
     "ws": "7.4.1",
-    "xmlhttprequest": "git://github.com/HawkenIndustries/node-XMLHttpRequest.git"
+    "xmlhttprequest": "https://github.com/HawkenIndustries/node-XMLHttpRequest.git"
   },
   "devDependencies": {
     "@babel/core": "7.10.2",
